@@ -19,6 +19,7 @@
 .landingPageContainer nav h2 {
   font-size: 1.8rem;
   font-weight: 500;
+  content: 'Confera';
 }
 
 .landingPageContainer nav .navlist {
